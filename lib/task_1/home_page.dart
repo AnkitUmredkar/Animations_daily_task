@@ -19,7 +19,15 @@ class _HomePageState extends State<HomePage> {
         leading: const Icon(Icons.menu,color: Colors.white),
         titleSpacing: 7,
         actions: [
-          IconButton(onPressed: (){},color: Colors.white, icon: Icon(Icons.restart_alt))
+          IconButton(onPressed: (){
+            setState(() {
+              for (int i = 0; i < targetImage.length; i++) {
+                targetImage[i] = false;
+              }
+              draggableImages = List.from(images);
+              restart = 0;
+            });
+          },color: Colors.white, icon: Icon(Icons.restart_alt))
         ],
         title: const Text(
           'Puzzle game',
@@ -39,7 +47,6 @@ class _HomePageState extends State<HomePage> {
                     name.length,
                     (index) {
                       if (restart == targetImage.length) {
-                        // Reset targetImage and restart counter
                         for (int i = 0; i < targetImage.length; i++) {
                           targetImage[i] = false;
                         }
