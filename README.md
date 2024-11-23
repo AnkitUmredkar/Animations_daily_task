@@ -1,7 +1,7 @@
 
 <h1 align="center"> Animation Daily Task </h1>
 
-## Description
+## Draggable Widget
 - A Flutter-based drag-and-drop puzzle game designed to enhance users' visual recognition and matching skills. This engaging application allows users to match images with their corresponding names through an intuitive drag-and-drop interface.
 
 ## Features
@@ -25,4 +25,43 @@
 
 <div align="center">
 <video height="550" src="https://github.com/user-attachments/assets/eabe2839-1817-4f11-a22a-3686cab12204"/>
+</div>
+
+<h1 align="left"> </h1>
+
+## Animated Align Widget
+- A Flutter app showcasing smooth animations with an airplane icon that changes positions and background color dynamically based on user interaction. Users can toggle the plane's alignment and observe the transition effects using the "Toggle Plane" button.
+
+<h1 align="left"> </h1>
+
+<div align="center">
+  <img height="510" src="https://github.com/user-attachments/assets/9f2e8c23-6616-478e-8336-f474a2be8f00"/>
+</div>
+
+<h1 align="left"> </h1>
+
+<div align="center">
+<video height="550" src="https://github.com/user-attachments/assets/98e4f950-0eae-448c-b417-003bbcbd8db0"/>
+</div>
+
+
+## Animated Container Widget
+- A Flutter app that greets users with an animated message after they enter their name. Features typewriter-style text animation and a message display with a restart option.
+
+<h1 align="left"> </h1>
+
+<div align="center">
+  <img height="510" src="https://github.com/user-attachments/assets/9f2e8c23-6616-478e-8336-f474a2be8f00"/>
+</div>
+
+<h1 align="left"> </h1>
+
+<div align="center">
+<img height="550" src="https://github.com/user-attachments/assets/47e59837-a46c-4636-8eb9-eed5125a7926"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="550" src="https://github.com/user-attachments/assets/eb1b2d35-b85b-4d12-8288-80271f97bb1c"/>
+</div>
+
+<div align="center">
+<video height="550" src="https://github.com/user-attachments/assets/2507104e-8304-4d13-ba85-ed1a8bdf7f8f"/>
 </div>
