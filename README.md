@@ -51,12 +51,6 @@
 <h1 align="left"> </h1>
 
 <div align="center">
-  <img height="510" src="https://github.com/user-attachments/assets/9f2e8c23-6616-478e-8336-f474a2be8f00"/>
-</div>
-
-<h1 align="left"> </h1>
-
-<div align="center">
 <img height="550" src="https://github.com/user-attachments/assets/47e59837-a46c-4636-8eb9-eed5125a7926"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="550" src="https://github.com/user-attachments/assets/eb1b2d35-b85b-4d12-8288-80271f97bb1c"/>
