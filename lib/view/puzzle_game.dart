@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
               draggableImages = List.from(images);
               restart = 0;
             });
-          },color: Colors.white, icon: Icon(Icons.restart_alt))
+          },color: Colors.white, icon: const Icon(Icons.restart_alt))
         ],
         title: const Text(
           'Puzzle game',
