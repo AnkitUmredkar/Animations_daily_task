@@ -75,3 +75,26 @@
 <div align="center">
 <video height="550" src="https://github.com/user-attachments/assets/aa226315-4a07-4893-ad90-8f3038ba3150"/>
 </div>
+
+<h1 align="left"> </h1>
+
+## Speed of Rotation Animation
+- The AnimationController in Flutter is a powerful tool for dynamically managing animations, offering precise control over their speed, duration, and playback. Paired with AnimatedBuilder, it ensures smooth and efficient updates to the UI, focusing changes only on animated elements for optimal performance.
+
+### Features:
+- Dynamically Controlled Speed: Easily increase or decrease the animation speed using user interactions.
+- Efficient Rendering: The AnimatedBuilder optimizes rendering by updating only the widget affected by the animation.
+- Smooth Repetition: The AnimationController.repeat() method allows continuous looping of animations seamlessly.
+- Customizable Durations: Change the animation's duration on the fly for interactive user experiences.
+
+<h1 align="left"> </h1>
+
+<div align="center">
+  <img height="510" src="https://github.com/user-attachments/assets/eab034e4-71eb-4a5f-b608-18cd05262bf1"/>
+</div>
+
+<h1 align="left"> </h1>
+
+<div align="center">
+<video height="550" src="https://github.com/user-attachments/assets/d7148923-7fd5-4ddc-b98d-b0dc81a72f5c"/>
+</div>
