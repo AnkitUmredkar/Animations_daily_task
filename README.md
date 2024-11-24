@@ -1,7 +1,7 @@
 
 <h1 align="center"> Animation Daily Task </h1>
 
-## Draggable Widget
+## Drag & Drop Animation
 - A Flutter-based drag-and-drop puzzle game designed to enhance users' visual recognition and matching skills. This engaging application allows users to match images with their corresponding names through an intuitive drag-and-drop interface.
 
 ## Features
@@ -29,7 +29,7 @@
 
 <h1 align="left"> </h1>
 
-## Animated Align Widget
+## Align Animation
 - A Flutter app showcasing smooth animations with an airplane icon that changes positions and background color dynamically based on user interaction. Users can toggle the plane's alignment and observe the transition effects using the "Toggle Plane" button.
 
 <h1 align="left"> </h1>
@@ -45,7 +45,7 @@
 </div>
 
 
-## Animated Container Widget
+## Align & Text Animation
 - A Flutter app that greets users with an animated message after they enter their name. Features typewriter-style text animation and a message display with a restart option.
 
 <h1 align="left"> </h1>
@@ -58,4 +58,20 @@
 
 <div align="center">
 <video height="550" src="https://github.com/user-attachments/assets/2507104e-8304-4d13-ba85-ed1a8bdf7f8f"/>
+</div>
+
+
+## Hero Animation
+- The Hero widget in Flutter provides a powerful way to create smooth animations between two screens, allowing shared elements (like images or text) to transition from one page to another seamlessly. By wrapping the element in a Hero and giving it a unique tag, Flutter automatically animates the element’s movement, creating visually stunning transitions that enhance the user experience.
+
+<h1 align="left"> </h1>
+
+<div align="center">
+<img height="550" src="https://github.com/user-attachments/assets/3f69115d-881a-4871-88e1-ae656ddeebe1"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="550" src="https://github.com/user-attachments/assets/dcc2184c-b469-4ac8-bbc1-e4f8016dbb59"/>
+</div>
+
+<div align="center">
+<video height="550" src="https://github.com/user-attachments/assets/aa226315-4a07-4893-ad90-8f3038ba3150"/>
 </div>
